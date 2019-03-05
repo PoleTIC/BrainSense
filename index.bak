@@ -85,13 +85,17 @@
 			<div class="row fullscreen align-items-center justify-content-start">
 				<div class="col-lg-12">
 					<div class="active-banner-slider owl-carousel">
+					
 						<!-- single-slide -->
 						<div class="row single-slide align-items-center d-flex">
 							<div class="col-lg-5 col-md-6">
 								<div class="banner-content">
-									<h1>MindSense <br>Technology</h1>
-									<p><font color="white">AN INTELLEGENT SOLUTION TO MONITOR YOUR ALERTNESS &amp; IMPROVE SAFETY.</font></p>
-									
+       								<h6><br></h6>
+									<h1><br></h1>
+									<h1>MindSense Technology</h1>
+									<p><font color="black">An Intelligent Solution To Monitor Your Alertness  &amp;</font></p>
+									<p><font color="black">Alert You When Falling Drowsy To Improve Your Safety.</font></p>
+									<p><iframe width="400" height="275" src="https://drive.google.com/file/d/1sVIAbMrJ3zSr7UzWd0rzBXmWBN-kIbk2/preview?autoplay=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 								</div>
 							</div>
 							<div class="col-lg-7">
@@ -101,15 +105,13 @@
 							</div>
 						</div>
 						<!-- single-slide -->
-						<div class="row single-slide">
-							<div class="col-lg-5">
+						<div class="row single-slide align-items-center d-flex">
+							<div class="col-lg-5 col-md-6">
 								<div class="banner-content">
-									<h1>MindSense <br>Technology</h1>
-									<p><font color="white">AN INTELLEGENT SOLUTION TO MONITOR YOUR ALERTNESS &amp; IMPROVE SAFETY.</font></p>
-									<div class="add-bag d-flex align-items-center">
-										<a class="add-btn" href=""><span class="lnr lnr-cross"></span></a>
-										<span class="add-text text-uppercase">Add to Bag</span>
-									</div>
+									<h1></br></h1>
+									<h2>MindSense Technology</h2>
+									<p><font color="#333333">AN INTELLEGENT SOLUTION TO MONITOR YOUR ALERTNESS &amp; </font><font color="#A63E02">ALERT YOU WHEN FALLING DROWSY TO IMPROVE YOUR SAFETY.</font></p>
+									<p><iframe width="420" height="275" src="https://drive.google.com/file/d/1sVIAbMrJ3zSr7UzWd0rzBXmWBN-kIbk2/preview?autoplay=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 								</div>
 							</div>
 							<div class="col-lg-7">
@@ -124,23 +126,6 @@
 		</div>
 	</section>
 	<!-- End banner Area -->
-
-
-	<!-- Start related-product Area -->
-	<section class="related-product-area section_gap_bottom">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-6 text-center">
-					<div class="section-title">
-						<h1>MindSense Solution</h1>
-						<p>An Intelligent System That Measures and Analyses Your Vital Signals &amp; Prevent You When <font color="#CC4906">Falling Asleep</font></p>
-						<iframe width="560" height="315" src="https://www.youtube.com/embed/PpywGV_ScgY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- End related-product Area -->
 
 	<!-- start footer Area -->
 	<footer class="footer-area section_gap">
@@ -195,7 +180,7 @@
 				</div>
 			</div>
 			<div class="footer-bottom d-flex justify-content-center align-items-center flex-wrap">
-				<p class="footer-text m-0">Copyright ©<script>document.write(new Date().getFullYear());</script> All rights reserved | MindSense<i class="fa fa-heart-o" aria-hidden="true"></p>
+				<p class="footer-text m-0">Copyright ©<script>document.write(new Date().getFullYear());</script> All rights reserved | MindSense</p>
 			</div>
 		</div>
 	</footer>
