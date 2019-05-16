@@ -83,10 +83,10 @@
         <div class="container">
             <div class="breadcrumb-banner d-flex flex-wrap align-items-center justify-content-end">
                 <div class="col-first">
-                    <h1>About us</h1>
+                    <h1>News</h1>
                     <nav class="d-flex align-items-center">
                         <a href="index.html">Home<span class="lnr lnr-arrow-right"></span></a>
-                        <a href="about.html">About us</a>
+                        <a href="news.html">News</a>
                     </nav>
                 </div>
             </div>
@@ -105,10 +105,8 @@
                             <div class="col-md-3">
                                 <div class="blog_info text-right">
                                     <ul class="blog_meta list">
-                                        <li><a href="#">Mark wiens<i class="lnr lnr-user"></i></a></li>
-                                        <li><a href="#">12 Dec, 2018<i class="lnr lnr-calendar-full"></i></a></li>
-                                        <li><a href="#">1.2M Views<i class="lnr lnr-eye"></i></a></li>
-                                        <li><a href="#">06 Comments<i class="lnr lnr-bubble"></i></a></li>
+                                        <li><a href="#">Samir Doudou<i class="lnr lnr-user"></i></a></li>
+                                        <li><a href="#">15 April, 2019<i class="lnr lnr-calendar-full"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -117,9 +115,9 @@
                                     <img src="img/blog/main-blog/m-blog-1.jpg" alt="">
                                     <div class="blog_details">
                                         <a href="single-blog.html">
-                                            <h2>MindSense Closed $1M Seed Round</h2>
+                                            <h2>MindSense Start-Up</h2>
                                         </a>
-                                        <p>MindSense is the startup aiming to disrupt the public transportation in europe and this startup has secured its seed round of $1.6M from a group of global investors including the leading industry player</p>
+                                        <p>MindSense is the startup aiming to disrupt the public transportation in europe including the leading industry player</p>
                                         <a href="single-blog.html" class="white_bg_btn">View More</a>
                                     </div>
                                 </div>
